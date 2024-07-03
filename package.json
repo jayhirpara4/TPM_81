@@ -1,0 +1,11 @@
+{
+  "name": "tpm_81",
+  "version": "1.0.0",
+  "description": "This is for API testing purpose only here!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Micro P <micropower8081@gmail.com>",
+  "license": "ISC"
+}
